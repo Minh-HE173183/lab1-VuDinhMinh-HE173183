@@ -8,7 +8,7 @@ const studentProfile = {
   major: 'FER202',
   hobbies: ['badminton', 'football', 'videogame'],
   isOnline: true,
-  totalLikes: 12,
+  totalLikes: 1,
 }
 
 export default studentProfile
